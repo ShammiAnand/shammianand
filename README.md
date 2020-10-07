@@ -5,6 +5,9 @@
 <a href="https://github.com/shammianand">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://kaggle.com/shammianand">
+  <img align="left" alt=" Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 <a href="mailto:shammianand101@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
