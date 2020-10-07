@@ -1,5 +1,5 @@
 # <a href="https://www.shammianand.live">Shammi Anand</a>
-![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.visitor-badge)
+![](https://visitor-badge.laobi.icu/badge?page_id=shammianand.visitor-badge)
 <a href="https://www.linkedin.com/in/shammicusat/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
