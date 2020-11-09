@@ -14,13 +14,13 @@
 </a>
 <a href="https://www.codechef.com/users/shammi22">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>
 <a href="https://codeforces.com/profile/shammianand">
   <img align="left" alt=" CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  </a>
 <a href="https://www.hackerrank.com/shammianand">
-  <a href="https://leetcode.com/shammianand/2">
-  <img align="left" alt=" leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+  </a>
 <br></br>
 
 <p align="center">
