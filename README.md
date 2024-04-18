@@ -8,7 +8,8 @@
 </a>
 <br></br>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/shammianand">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammianand&theme=dark&hide_langs_below=1&hide=c%2B%2B" />
-</a></p>
+</a>
+</p>
